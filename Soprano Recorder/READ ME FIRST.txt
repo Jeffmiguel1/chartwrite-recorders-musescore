@@ -1,0 +1,24 @@
+Soprano Recorder · Chartwrite Sounds - Soprano recorder for MuseScore 4 (free)
+A real soprano recorder, leveled note by note so no part of the range sticks out.
+
+FILE
+  .sf3  (1.0 MB) - for MuseScore 4
+
+INSTALL (2 minutes)
+1. Open MuseScore 4. Drag the .sf3 file from this folder onto the MuseScore window and click Install.
+   (Or: quit MuseScore, copy it into Documents/MuseScore4/SoundFonts, then open MuseScore again.)
+2. Open your score. Open the Mixer (View > Mixer, or F10).
+3. On the soprano recorder track, click the sound name, choose CW Recorder (Soprano) and pick a preset from the list:
+     Soprano Recorder      - the main sound
+     Sop Rec Staccato      - short, tongued notes
+4. Press play.
+
+HOW TO WRITE FOR IT
+  Write normal soprano recorder notation (it sounds an octave above written; MuseScore handles this). Range: C5 to C#7 sounding (written C4 to C#6).
+  Recorders are quiet instruments: if it sits low next to other parts, raise its fader in the Mixer.
+
+LICENSE
+Soprano Recorder · Chartwrite Sounds (c) 2026 Jeff Miguel Music LLC. Free.
+Use it in any music you make, including commercial. Please don't re-upload the files;
+  link people to chartwritesounds.com instead.
+Samples: VCSL, Versilian Community Sample Library (released CC0 / public domain by Versilian Studios).

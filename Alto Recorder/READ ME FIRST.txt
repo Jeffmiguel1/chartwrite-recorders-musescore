@@ -1,0 +1,25 @@
+Alto Recorder · Chartwrite Sounds - Alto recorder for MuseScore 4 (free)
+A real alto recorder, leveled note by note so no part of the range sticks out.
+
+FILE
+  .sf3  (2.3 MB) - for MuseScore 4
+
+INSTALL (2 minutes)
+1. Open MuseScore 4. Drag the .sf3 file from this folder onto the MuseScore window and click Install.
+   (Or: quit MuseScore, copy it into Documents/MuseScore4/SoundFonts, then open MuseScore again.)
+2. Open your score. Open the Mixer (View > Mixer, or F10).
+3. On the alto recorder track, click the sound name, choose CW Recorder (Alto) and pick a preset from the list:
+     Alto Recorder         - the main sound
+     Alto Rec Vibrato      - with a gentle vibrato
+     Alto Rec Staccato     - short, tongued notes
+4. Press play.
+
+HOW TO WRITE FOR IT
+  Write normal alto recorder notation. Range: E4 to G6 sounding.
+  Recorders are quiet instruments: if it sits low next to other parts, raise its fader in the Mixer.
+
+LICENSE
+Alto Recorder · Chartwrite Sounds (c) 2026 Jeff Miguel Music LLC. Free.
+Use it in any music you make, including commercial. Please don't re-upload the files;
+  link people to chartwritesounds.com instead.
+Samples: VCSL, Versilian Community Sample Library (released CC0 / public domain by Versilian Studios).

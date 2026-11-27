@@ -1,0 +1,29 @@
+Recorders · Chartwrite Sounds - soprano, alto, tenor and bass recorder for MuseScore 4. Free.
+
+WHAT'S INSIDE (ranges are SOUNDING pitch; MuseScore writes soprano and bass an octave lower)
+  Soprano Recorder   C5-C#7   presets: Soprano Recorder, Sop Rec Staccato
+  Alto Recorder      E4-G6    presets: Alto Recorder, Alto Rec Vibrato, Alto Rec Staccato
+  Tenor Recorder     C4-Eb6   presets: Tenor Recorder, Tenor Rec Vibrato, Tenor Rec Staccato
+  Bass Recorder      F3-F5    presets: Bass Recorder, Bass Rec Vibrato, Bass Rec Staccato
+  Template           "Recorders - Chartwrite Sounds Template.mscz" (recorder quartet, already set up)
+  Demo               "Greensleeves" for recorder quartet (.mscz + MP3)
+Each recorder folder has its own READ ME FIRST with writing tips.
+
+STEP 1 - INSTALL THE SOUNDS (once, 2 minutes)
+  Open MuseScore 4. In Finder (Mac) or File Explorer (Windows), open each recorder folder and drag its
+  .sf3 file onto the open MuseScore window. MuseScore asks to install it - click Install. Do this for all four.
+  (Or: quit MuseScore, copy the four .sf3 files into Documents/MuseScore4/SoundFonts, and open MuseScore again.)
+
+STEP 2 - USE THEM (pick A or B)
+  A. Fastest: start from the template. Copy "Recorders - Chartwrite Sounds Template.mscz" (Template folder)
+     into Documents/MuseScore4/Templates. In MuseScore: File > New > choose the template. All four
+     recorders are already set to these sounds - just write and press play.
+  B. Your own score: open it, open the Mixer (View > Mixer, or F10). On each recorder track, click the sound
+     name > SoundFonts > CW Recorder (Soprano / Alto / Tenor / Bass), then press play.
+  Recorders are quiet instruments: if they sit low next to other parts, raise their faders in the Mixer.
+
+LICENSE
+Free for any music you make, including commercial. Please don't re-upload the files; link people to
+chartwritesounds.com instead. Samples: VCSL (CC0, Versilian Studios).
+
+More Chartwrite Sounds: Jazz Rhythm Section (piano, upright bass, brushes, sticks, vibes) at chartwritesounds.com
